@@ -1,2 +1,2 @@
 # CS598-deep-learning
-CS598 at Hood college
+This is a public respository for cs598, deep learning, at Hood College. 

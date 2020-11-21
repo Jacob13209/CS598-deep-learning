@@ -1,0 +1,40 @@
+This folder is for the term-project: Distracted Driver Detection with Convolution Neural Network. 
+├── Documents
+│   ├── Poster
+│   │   ├── Poster_DistractedDriverDetection_ShijieLIU.pdf
+│   │   └── Poster_DistractedDriverDetection_ShijieLIU.pptx
+│   ├── Presentation
+│   │   ├── Presentation_Distracted_Driver_Detection_ShijieLIU.pdf
+│   │   └── Presentation_Distracted_Driver_Detection_ShijieLIU.pptx
+│   └── Report
+│       ├── Paper_DistractedDriverDetection_ShijieLIU.docx
+│       └── Paper_DistractedDriverDetection_ShijieLIU.pdf
+├── Notebooks
+│   ├── README.md
+│   ├── distracted_driver_detection_base(scratch_vgg19).ipynb
+│   ├── distracted_driver_detection_base(scratch_vgg19)_dropout(0.3).ipynb
+│   ├── distracted_driver_detection_base_dropout(0.2)_batch_normal(scratch)_data_aug.ipynb
+│   ├── distracted_driver_detection_base_dropout(0.3)_batch_normal(scratch).ipynb
+│   ├── distracted_driver_detection_base_dropout(0.3)_batch_normal(scratch)_data_aug.ipynb
+│   ├── distracted_driver_detection_base_dropout(0.3)_batch_normal(scratch)_data_aug_lr_0.0001.ipynb
+│   ├── distracted_driver_detection_base_dropout(0.3)_batch_normal(scratch)_data_aug_lr_0.001.ipynb
+│   ├── distracted_driver_detection_base_dropout(0.3)_batch_normal(scratch)_data_aug_lr_0.01.ipynb
+│   ├── distracted_driver_detection_base_dropout(0.4)_batch_normal(scratch)_data_aug.ipynb
+│   ├── distracted_driver_detection_scratch_batch_normal_data_aug_lr_0.01.ipynb
+│   ├── distracted_driver_detection_vgg19_dropout(0.3)_data_aug_lr_0.00001_layer_15.ipynb
+│   ├── distracted_driver_detection_vgg19_dropout(0.3)_data_aug_lr_0.0001_layer_10.ipynb
+│   ├── distracted_driver_detection_vgg19_dropout(0.3)_data_aug_lr_0.0001_layer_15.ipynb
+│   ├── distracted_driver_detection_vgg19_dropout(0.3)_data_aug_lr_0.001_layer_10.ipynb
+│   ├── fine-tuned_distracted_driver_detection_vgg19_dropout(0.3)_data_aug_lr_0.0001_layer_10.ipynb
+│   ├── model_plots
+│   │   ├── README.md
+│   │   ├── scratch_cnn_model.png
+│   │   └── transfered_model_vgg19.png
+│   ├── saved_models
+│   │   ├── README.md
+│   │   └── distracted_driver_detection_scratch.h5
+│   ├── scratch_distracted_driver_detection_scratch_dropout(0.3)_batch_normal_data_aug_lr_0.01.ipynb
+│   └── scratch_distracted_driver_detection_scratch_dropout(0.3)_batch_normal_data_aug_lr_0.01_graystyle.ipynb
+├── REDME.md
+└── Video
+    └── README.md

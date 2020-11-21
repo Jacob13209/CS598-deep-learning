@@ -10,6 +10,27 @@ This folder is for the term-project: Distracted Driver Detection with Convolutio
 		- Paper_DistractedDriverDetection_ShijieLIU.docx
 		- Paper_DistractedDriverDetection_ShijieLIU.pdf
 - Notebooks
-
+	- distracted_driver_detection_base(scratch_vgg19).ipynb
+	- distracted_driver_detection_base(scratch_vgg19)_dropout(0.3).ipynb
+	- distracted_driver_detection_base_dropout(0.2)_batch_normal(scratch)_data_aug.ipynb
+	- distracted_driver_detection_base_dropout(0.3)_batch_normal(scratch).ipynb
+	- distracted_driver_detection_base_dropout(0.3)_batch_normal(scratch)_data_aug.ipynb
+	- distracted_driver_detection_base_dropout(0.3)_batch_normal(scratch)_data_aug_lr_0.0001.ipynb
+	- distracted_driver_detection_base_dropout(0.3)_batch_normal(scratch)_data_aug_lr_0.001.ipynb
+	- distracted_driver_detection_base_dropout(0.3)_batch_normal(scratch)_data_aug_lr_0.01.ipynb
+	- distracted_driver_detection_base_dropout(0.4)_batch_normal(scratch)_data_aug.ipynb
+	- distracted_driver_detection_scratch_batch_normal_data_aug_lr_0.01.ipynb
+	- distracted_driver_detection_vgg19_dropout(0.3)_data_aug_lr_0.00001_layer_15.ipynb
+	- distracted_driver_detection_vgg19_dropout(0.3)_data_aug_lr_0.0001_layer_10.ipynb
+	- distracted_driver_detection_vgg19_dropout(0.3)_data_aug_lr_0.0001_layer_15.ipynb
+	- distracted_driver_detection_vgg19_dropout(0.3)_data_aug_lr_0.001_layer_10.ipynb
+	- fine-tuned_distracted_driver_detection_vgg19_dropout(0.3)_data_aug_lr_0.0001_layer_10.ipynb
+	- scratch_distracted_driver_detection_scratch_dropout(0.3)_batch_normal_data_aug_lr_0.01.ipynb
+	- scratch_distracted_driver_detection_scratch_dropout(0.3)_batch_normal_data_aug_lr_0.01_graystyle.ipynb
+	- model_plots
+		- scratch_cnn_model.png
+		- transfered_model_vgg19.png
+	- saved_models
+		- distracted_driver_detection_scratch.h5
 - Video
 	- README.md 

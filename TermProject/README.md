@@ -33,4 +33,5 @@ This folder is for the term-project: Distracted Driver Detection with Convolutio
 	- saved_models
 		- distracted_driver_detection_scratch.h5
 - Video
+	- 2020-11-22 14-44-50.mkv
 	- README.md 
